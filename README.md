@@ -1,23 +1,8 @@
-# Ticari_Otomasyon_Projesi
-Ticari Otomasyon
-
-# Ticari_Otomasyon_Projesi
-Ticari Otomasyon
-
 ### Ticari Otomasyon Projesi nedir?
 
 Ticari Otomasyon Projesi, işyerlerinin ürün kaydı, müşteri kaydı, firma kaydı, stok takibi yapabileceği, hareketleri görüntüleyebileceği, gelir ve giderlerini
-görüntüleyebilecekleri, vb. işleri yapabilecekleri bir otomasyondur.
-
-### Ticari Otomasyon Projesinde neler yapıldı?
-
-Projede Ado.net teknolojisi kullanıldı, dil olarak C#, veri tabanı olarak MSSQL kullanıldı. Arayüz için DevExpress kullanılarak sade ve kullanışlı bir arayüz yapıldı.
-Projede procedurler ve bolca CRUD işlemleri kullanıldı.
-
-### Kullanılan Teknolojiler
-
-C#, MSSQL, Ado.net, DevExpress
-
+görüntüleyebilecekleri, vb. işleri yapabilecekleri bir otomasyondur. Projeyi Ado.net teknolojisini kullanarak hazırladım. Projede dil olarak C#, veritabanı olarak 
+MSSQL kullandım. DevExpress kullanılarak sade ve kullanışlı bir arayüz geliştirdim. Projede procedurler ve bolca CRUD işlemleri kullandım.
 
 ### Proje ile ilgili bazı görseller
 
